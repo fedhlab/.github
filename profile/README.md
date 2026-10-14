@@ -52,11 +52,12 @@ The Department of Excellence is headed by **Professor Andrea Mazzucchi**.
 Technical Director: **Gennaro Ferrante**.
 
 Management Board:
-- Gennaro Ferrante;
-- Federica Nicolardi;
 - Rodolfo Brancato;
-- Roberto Delle Donne.
-
+- Roberto Delle Donne;
+- Gennaro Ferrante;
+- Giuseppe Andrea Liberti;
+- Federica Nicolardi.
+  
 FEDHLAB IT infrastructure: **Cristian Russo**, Researcher in Computer Engineering.
 
 IT resp. of Department of Human Sciences (DSU) **Giovanni Cozzolino**, EP Technologist.
