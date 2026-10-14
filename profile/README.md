@@ -49,7 +49,7 @@ Naples, Italy
 
 The Department of Excellence is headed by **Professor Andrea Mazzucchi**.
 
-Technical Director: **Gennaro Ferrante**.
+Technical Director: Gennaro Ferrante.
 
 Management Board:
 - Rodolfo Brancato;
